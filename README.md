@@ -23,4 +23,4 @@ I am a learning fullstack developer from Paris
 <br>## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /><img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <br><br>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=sophielepert&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=cobalt" /><img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophielepert&layout=compact&theme=cobalt&hide_border=true" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=sophielepert&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=cobalt" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophielepert&layout=compact&theme=cobalt&hide_border=true" />
