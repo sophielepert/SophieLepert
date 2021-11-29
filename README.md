@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 👋</h3>
 
 
-<div align="center">I am a learning fullstack developer from Paris<br></div>
+<div align="center">I am a junior fullstack developer from Paris<br></div>
 
 --- 
 
