@@ -26,6 +26,5 @@
 
 <h3 align="center">Github Datas</h3>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/?username=sophielepert&theme=cobalt&hide_border=true" /></div> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophielepert&langs_count=5&theme=cobalt"/></div>
 <div align="center"><a href="https://wakatime.com/@72abf1b5-924c-414a-ab32-23bdb2918174"><img src="https://wakatime.com/badge/user/72abf1b5-924c-414a-ab32-23bdb2918174.svg" alt="Total time coded since Sep 16 2021" /></a</div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=sophielepert" alt="profil counter badge" /></div>
